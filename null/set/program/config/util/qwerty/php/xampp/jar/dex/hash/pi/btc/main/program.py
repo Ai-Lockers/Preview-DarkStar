@@ -40,7 +40,7 @@ def sjusgsbdndjsjhensksskksns________ksjehsjskososokHCXXGajjwjwjwjwejjejekekekwp
     print(
     f"""
 {O}╔═════════════════════════════════════════════════════════════════════════════╗
-{O}║{M} [+{M}] {P}Author  {M} : {P}MrPstar7             {O} ║ {M} [+{M}]{P} WhatsApp {M} : {P}+6285728337030   {O}   ║
+{O}║{M} [+{M}] {P}Author  {M} : {P}MrPstar7             {O} ║ {M} [+{M}]{P} WhatsApp {M} : {P}   {O}   ║
 {O}║{M} [+{M}] {P}Telegram{M} : {P}t.me/MrPstar7         {O}║{M}  [+{M}] {P}Instagram {M}: {P}pstar7.dev        {O}  ║
 {O}║ {M}[+{M}] {P}Github   {M}: {P}github.com/Mr-Pstar7{O}  ║{M}  [+{M}] {P}YouTube   {M}:{P} @Mr-Pstar7      {O}    ║
 {O}╚═════════════════════════════════════════════════════════════════════════════╝
